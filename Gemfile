@@ -7,6 +7,9 @@ group :test do
 	gem 'capybara'
 end
 
+
+
+
 group :development, :test do
 	gem 'debugger'
 	gem 'sqlite3'
